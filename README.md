@@ -11,5 +11,5 @@ Digital Inputs
 Analog Inputs with 0-10v
 DIN-Rail mount
 
-Datasheet:   https://drive.google.com/open?id=1bqxCycxqhg8lrbKbDhWwO8-7_i1j1kaW&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=17ooxjzxzB8BjvOwe0y5ZpZrFYjuE7raM&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-agent-1-bm01-es-l-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-agent-1-bm02-es-l-user-guide/
