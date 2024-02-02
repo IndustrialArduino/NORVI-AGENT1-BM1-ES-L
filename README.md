@@ -12,4 +12,4 @@ Analog Inputs with 0-10v
 DIN-Rail mount
 
 Datasheet:   https://norvi.lk/docs/norvi-agent-1-bm01-es-l-datasheet/
-User Guide:  https://norvi.lk/docs/norvi-agent-1-bm02-es-l-user-guide/
+User Guide:  https://norvi.lk/docs/norvi-agent-1-bm01-es-l-user-guide/
